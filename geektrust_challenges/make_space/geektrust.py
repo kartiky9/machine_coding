@@ -1,7 +1,7 @@
 import sys
 
 from models import TimeInterval
-from utils.config import BUFFER_TIMES, MEETING_ROOMS
+from config import BUFFER_TIMES, MEETING_ROOMS
 from services import MeetingScheduler, meeting_scheduler
 from utils.exceptions import IncorrectInputError
 
