@@ -114,5 +114,10 @@ dmypy.json
 .pyre/
 
 
+# Compressed files
+*.zip
+*.rar
+*.7z
+
 #VS Code
 .vscode
